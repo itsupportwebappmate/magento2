@@ -1,0 +1,1 @@
+/home/m2webappmate/public_html/vendor/magento/module-configurable-product/view/adminhtml/web/js/variations/variations.js

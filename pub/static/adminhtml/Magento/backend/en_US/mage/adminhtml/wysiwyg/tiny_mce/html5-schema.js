@@ -1,0 +1,1 @@
+/home/m2webappmate/public_html/lib/web/mage/adminhtml/wysiwyg/tiny_mce/html5-schema.js
